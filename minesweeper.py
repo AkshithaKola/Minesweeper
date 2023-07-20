@@ -1,7 +1,6 @@
 import pygame
 import random
 from pygame.locals import*
-import pygame.gfxdraw
 
 global grid_size,mines_count,width,height,cell_size
 grid_size=10
